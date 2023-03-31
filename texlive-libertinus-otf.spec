@@ -1,6 +1,6 @@
 Name:		texlive-libertinus-otf
 Version:	60023
-Release:	1
+Release:	2
 Summary:	Support for Libertinus OpenType
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/libertinus-otf
