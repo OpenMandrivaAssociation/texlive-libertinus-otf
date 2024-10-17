@@ -3,7 +3,7 @@ Version:	68333
 Release:	1
 Summary:	Support for Libertinus OpenType
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/libertinus-otf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/libertinus-otf
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/libertinus-otf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/libertinus-otf.doc.r%{version}.tar.xz
